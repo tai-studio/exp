@@ -10,6 +10,8 @@ For each HW-input the controller sends out a MIDI pitchbend message (14bit) on i
 ![](_assets/exp.jpg)
 ![](_assets/exp-overview.jpg)
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S72858T)
+
 ## Requirements
 
 ### Hardware
